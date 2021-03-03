@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7b1ef95-cc35-40d3-8522-7c65c2f790e5" name="Default Changelist" comment="hierarchy organising">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/Lion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/WildCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/Zoo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/Zookeeper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/ro/ase/eu/seminar1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/WildCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/ZooInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/Zookeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar1/src/ro/ase/eu/seminar1/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oyQmaDHHBmxlGHslquKPGzmhlX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Seminar1" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7b1ef95-cc35-40d3-8522-7c65c2f790e5" name="Default Changelist" comment="" />
+      <created>1614256526597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614256526597</updated>
+    </task>
+    <task id="LOCAL-00001" summary="c">
+      <created>1614256691489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614256691489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="c">
+      <created>1614256722553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614256722553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added files">
+      <created>1614358333331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614358333331</updated>
+    </task>
+    <task id="LOCAL-00004" summary="c">
+      <created>1614413342274</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614413342274</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sambata 27.02.21">
+      <created>1614417242028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614417242028</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sambata 27.02.21">
+      <created>1614417259322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614417259323</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Wild Cat">
+      <created>1614417745186</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614417745186</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added interface // Fixed Clean Code">
+      <created>1614762101747</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614762101747</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added interface // Fixed Clean Code">
+      <created>1614762301786</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614762301786</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hierarchy organising">
+      <created>1614762421864</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614762421864</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added files" />
+    <MESSAGE value="c" />
+    <MESSAGE value="sambata 27.02.21" />
+    <MESSAGE value="Wild Cat" />
+    <MESSAGE value="Added interface // Fixed Clean Code" />
+    <MESSAGE value="hierarchy organising" />
+    <option name="LAST_COMMIT_MESSAGE" value="hierarchy organising" />
+  </component>
+</project>
