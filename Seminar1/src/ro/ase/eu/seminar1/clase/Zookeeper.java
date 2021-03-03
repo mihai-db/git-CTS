@@ -1,4 +1,4 @@
-package clase;
+package ro.ase.eu.seminar1.clase;
 
 public class Zookeeper {
     private String name;

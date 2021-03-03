@@ -1,4 +1,4 @@
-package clase;
+package ro.ase.eu.seminar1.clase;
 
 public class WildCat extends Animal {
 public String food;

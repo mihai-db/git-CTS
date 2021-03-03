@@ -1,4 +1,4 @@
-package clase;
+package ro.ase.eu.seminar1.clase;
 
 import java.util.ArrayList;
 import java.util.List;
