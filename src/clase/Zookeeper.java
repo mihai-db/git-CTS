@@ -8,15 +8,17 @@ public class Zookeeper {
     }
 
     public String getName() {
+
         return name;
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
-    public void feed(Animal a)
+    public void feed(Animal animalZoo)
 
     {
-        System.out.println("Ingrijitorul " + this.name + " hraneste animalul " + a.getNume());
+        System.out.println("Ingrijitorul " + this.name + " hraneste animalul " + animalZoo.getNume());
     }
 }

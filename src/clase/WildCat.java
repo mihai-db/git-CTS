@@ -4,6 +4,7 @@ public class WildCat extends Animal {
 public String food;
 
     public WildCat(String nume) {
+
         super(nume);
     }
 

@@ -8,10 +8,12 @@ public class Zoo {
     private List<Animal> lista;
 
     public Zookeeper getZookeeper() {
+
         return zookeeper;
     }
 
     public void setZookeeper(Zookeeper zookeeper) {
+
         this.zookeeper = zookeeper;
     }
 
@@ -20,6 +22,7 @@ public class Zoo {
     }
 
     public void setLista(List<Animal> lista) {
+
         this.lista = lista;
     }
 
