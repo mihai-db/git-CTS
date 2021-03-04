@@ -14,6 +14,8 @@ public class StudentReader {
         input.useDelimiter(",|\n");
         List<Student> studenti = new ArrayList<Student>();
 
+        //List generalizeaza - abstractizeaza - ArrayList
+
         while (input.hasNext()) {
             String nume = input.next();
             String prenume = (input.next()).toString();
