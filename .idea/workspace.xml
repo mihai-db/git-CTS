@@ -2,26 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7b1ef95-cc35-40d3-8522-7c65c2f790e5" name="Default Changelist" comment="hierarchy organising">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/Lion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/WildCat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/Zoo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/clase/Zookeeper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/out/production/git/ro/ase/eu/seminar1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/WildCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/ZooInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/src/clase/Zookeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar1/src/ro/ase/eu/seminar1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar1/src/clase/ZooInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar1/src/clase/ZooInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/angajati.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/elevi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/elevinoi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/clase/Angajat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/clase/Aplicant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/clase/Elev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/clase/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/program/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/reader/AngajatReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/reader/ElevReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/reader/StudentReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/readers/AngajatReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/readers/AplicantReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/readers/ElevReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/readers/StudentReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar2/studenti.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Seminar1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Seminar2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
